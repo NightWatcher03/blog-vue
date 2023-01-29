@@ -1,0 +1,54 @@
+{
+  "name": "blog-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "@wangeditor/editor": "^5.1.22",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.2.0",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.1.1",
+    "element-plus": "^2.2.19",
+    "github-markdown-css": "^5.1.0",
+    "highlightjs-line-numbers.js": "^2.8.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "i": "^0.3.7",
+    "markdown-loader": "^8.0.0",
+    "marked": "^4.2.1",
+    "md-editor-v3": "^2.4.1",
+    "npm": "^8.19.2",
+    "qs": "^6.11.0",
+    "register-service-worker": "^1.7.2",
+    "unplugin-auto-import": "^0.11.4",
+    "unplugin-icons": "^0.14.12",
+    "unplugin-vue-components": "^0.22.9",
+    "vue": "^3.2.13",
+    "vue-markdown-loader": "^2.5.0",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "jquery": "^3.6.3",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "vue-loader": "^17.0.1",
+    "vue-template-compiler": "^2.7.13"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
